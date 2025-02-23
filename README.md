@@ -20,10 +20,10 @@ The project consists of the following files:
 - Responsive and visually appealing layout.
 
 ## How to Use
-
-1. Open `index.html` in a web browser to view the site.
-2. Modify the `style.css` file to customize the appearance.
-3. Replace or add images in the aside section if desired.
+1. visit https://nandhanakp.github.io/STRUCTURING_PAGE_OF_CONTENT/
+2. Open `index.html` in a web browser to view the site.
+3. Modify the `style.css` file to customize the appearance.
+4. Replace or add images in the aside section if desired.
 
 ## License
 
